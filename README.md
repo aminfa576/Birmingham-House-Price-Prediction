@@ -1,13 +1,13 @@
 # Birmingham House Prices Prediction Project
 
 ## Course Information
-This project was completed as part of the Data Science Programming course at [Your University]. It serves as a hands-on application of data science and machine learning concepts learned during the course.
-
+This project is a university assignment for the Data Science Programming module, which is part of the Data Analytics MSc course at Aston University. The objective is to predict house prices using various machine learning models. The dataset includes several features related to house properties and sales, which have been cleaned, preprocessed, and analyzed to build predictive models.
 ## Introduction
 This project focuses on predicting house prices using various machine learning models. The dataset includes several features related to house properties and sales, which have been cleaned, preprocessed, and analyzed to build predictive models.
 
 ## Data Source
-The dataset used for this project, named `Prices.csv`, contains information on house prices paid for all houses sold in Birmingham over a 25-year period from 1st January 1995 to 31st December 2019. The data was obtained from the UK Land Registry website ([UK Land Registry](https://landregistry.data.gov.uk/app/ppd)) and is used for educational purposes in this project.
+For this project, the dataset named ‘Prices.csv’ was utilized. This file contains the prices paid for all houses sold in Birmingham over a 25-year period from 1st January 1995 to 31st December 2019. The data was obtained from the UK Land Registry website [UK Land Registry](https://landregistry.data.gov.uk/app/ppd).
+
 
 ## Technologies Used
 - Python
