@@ -33,14 +33,13 @@ The dataset used for this project, named `Prices.csv`, contains information on h
 - The linear regression models provided moderate predictive performance with reasonable training and testing errors.
 - The MLP demonstrated better performance, with lower testing errors, suggesting improved generalization to unseen data.
 
-## Conclusion and Future Work
+## Conclusion 
 - The project successfully implemented and compared different models for house price prediction.
 - The MLP showed promising results, outperforming simple linear regression models.
-- Future work may involve experimenting with different neural network architectures, further hyperparameter tuning, and exploring other advanced modeling techniques.
+-
 
 ## Installation/Usage
 Clone the repository and ensure you have the necessary Python packages installed (Pandas, Matplotlib, Sklearn, PyTorch).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
