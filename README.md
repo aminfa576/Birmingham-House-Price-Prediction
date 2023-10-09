@@ -11,10 +11,10 @@ For this project, the dataset named ‘Prices.csv’ was utilized. This file con
 
 ## Technologies Used
 - Python
-- Pandas: For data manipulation and analysis.
-- Matplotlib: For creating static, animated, and interactive visualizations.
-- Sklearn: For implementing machine learning algorithms.
-- PyTorch: An open-source machine learning framework.
+- Pandas
+- Matplotlib
+- Sklearn
+- PyTorch
 
 ## Data
 `Prices.csv` contains information on house sales, including features like property type, transaction type, address, price paid, and date of sale. The data has undergone several preprocessing steps:
